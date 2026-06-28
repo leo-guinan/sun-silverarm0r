@@ -1,0 +1,382 @@
+{
+  "id": "sun-silverarm0r",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@silverarm0r Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_f80846633cd9",
+    "display_name": "silverarm0r",
+    "user_id": "@silverarm0r",
+    "description": "Community Archive-derived proof-of-search sun for @silverarm0r.",
+    "document_count": 3151,
+    "word_count": 50783,
+    "active_days": 331,
+    "emissions": [
+      "Think",
+      "Good",
+      "Feel",
+      "Really",
+      "Time",
+      "Love"
+    ],
+    "generated_at": "2026-06-28T13:13:56.342707+00:00",
+    "color": "#f59e0b",
+    "mass": 10.835
+  },
+  "planets": [
+    {
+      "id": "planet_855da61fbbd1",
+      "name": "Think",
+      "summary": "Archive cluster around think: 2616 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "now",
+        "babieswithb",
+        "mechanical_monk",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_55c08791139d",
+          "title": "Think receipt from 2025-04-08",
+          "excerpt": "one of my most unhinged desires is I wish I could ask every man who's ever liked me to write a thorough and in-depth analysis about all the things they think are wrong about me. I want them to think long and hard about all the details that make me detestable and hand it to me…",
+          "source_document_id": "1909691410183541234",
+          "timestamp": "2025-04-08T19:34:47+00:00",
+          "url": "https://x.com/silverarm0r/status/1909691410183541234",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, now, babieswithb, mechanical_monk."
+        },
+        {
+          "id": "art_398a6938d9ec",
+          "title": "Think receipt from 2025-04-29",
+          "excerpt": "@_brentbaum here in portugal it was such a vibe too! I think we should implement a weekend of no electricity per year",
+          "source_document_id": "1917143202919837844",
+          "timestamp": "2025-04-29T09:05:33+00:00",
+          "url": "https://x.com/silverarm0r/status/1917143202919837844",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, now, babieswithb, mechanical_monk."
+        },
+        {
+          "id": "art_fd263faaaa5f",
+          "title": "Think receipt from 2025-04-28",
+          "excerpt": "the power was out and immediately nature started healing: people were drinking outside, playing guitar and singing in their balconies, we had a barbecue with our neighbors, kids were playing soccer on the street, we listened to the radio...",
+          "source_document_id": "1916962472629567983",
+          "timestamp": "2025-04-28T21:07:23+00:00",
+          "url": "https://x.com/silverarm0r/status/1916962472629567983",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, now, babieswithb, mechanical_monk."
+        },
+        {
+          "id": "art_5e1c6baf49f6",
+          "title": "Think receipt from 2025-04-17",
+          "excerpt": "stared at a guy very intensely at the grocery store, and he didn't come up to me and ask me for my number. wow. insane.",
+          "source_document_id": "1912911550903365981",
+          "timestamp": "2025-04-17T16:50:28+00:00",
+          "url": "https://x.com/silverarm0r/status/1912911550903365981",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, now, babieswithb, mechanical_monk."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_de7df13405bf",
+      "proof_score": 1,
+      "mass": 31.61,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_fa7ecdd5fb51",
+      "name": "Good",
+      "summary": "Archive cluster around good: 138 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "feel",
+        "need",
+        "look"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9a783d80ae1b",
+          "title": "Good receipt from 2025-01-29",
+          "excerpt": "a year ago, life started spiraling in such a way that i became a ghost, a room with the lights off, a shell of a being. a year later, i feel my personhood coming around, and its hard to grab at it.\nfeels good to have it back, though",
+          "source_document_id": "1884531528392188068",
+          "timestamp": "2025-01-29T09:18:23+00:00",
+          "url": "https://x.com/silverarm0r/status/1884531528392188068",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, need."
+        },
+        {
+          "id": "art_c64c98bfd449",
+          "title": "Good receipt from 2025-01-29",
+          "excerpt": "my new hobby is math what are some good numbers to start with",
+          "source_document_id": "1884543828410970173",
+          "timestamp": "2025-01-29T10:07:16+00:00",
+          "url": "https://x.com/silverarm0r/status/1884543828410970173",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, need."
+        },
+        {
+          "id": "art_33619c848e32",
+          "title": "Good receipt from 2025-03-15",
+          "excerpt": "10 years ago, there were few things cooler in my book than getting a new roll of developed film and posting it on flickr \nand a roll of fujicolor c200 was max €4. good times! sort of",
+          "source_document_id": "1900860109581926482",
+          "timestamp": "2025-03-15T10:42:21+00:00",
+          "url": "https://x.com/silverarm0r/status/1900860109581926482",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, need."
+        },
+        {
+          "id": "art_517af1edc4f2",
+          "title": "Good receipt from 2025-04-26",
+          "excerpt": "i am looking for portals and good omens",
+          "source_document_id": "1916219581406056608",
+          "timestamp": "2025-04-26T19:55:24+00:00",
+          "url": "https://x.com/silverarm0r/status/1916219581406056608",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, feel, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1285cdb39196",
+      "proof_score": 0.843,
+      "mass": 24.343,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_3e3ca65f90d6",
+      "name": "Feel",
+      "summary": "Archive cluster around feel: 115 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "feel",
+        "don",
+        "better",
+        "know",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6197bf19bf09",
+          "title": "Feel receipt from 2025-04-08",
+          "excerpt": "@rockedtwice I feel that deeply lol. i just FUCKING LOVE feedback!!!!",
+          "source_document_id": "1909703220546380129",
+          "timestamp": "2025-04-08T20:21:43+00:00",
+          "url": "https://x.com/silverarm0r/status/1909703220546380129",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, better, know."
+        },
+        {
+          "id": "art_a9650edd60b5",
+          "title": "Feel receipt from 2025-02-20",
+          "excerpt": "me, a very sociable person, after spending a whole week just working and staying inside by myself: wow why do i feel like shit",
+          "source_document_id": "1892521610696908932",
+          "timestamp": "2025-02-20T10:28:07+00:00",
+          "url": "https://x.com/silverarm0r/status/1892521610696908932",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, better, know."
+        },
+        {
+          "id": "art_9f80bb45ac72",
+          "title": "Feel receipt from 2025-03-31",
+          "excerpt": "hot women how do I feel more comfortable with looking hot help me please",
+          "source_document_id": "1906717132215210270",
+          "timestamp": "2025-03-31T14:36:04+00:00",
+          "url": "https://x.com/silverarm0r/status/1906717132215210270",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, better, know."
+        },
+        {
+          "id": "art_e49ef5912e84",
+          "title": "Feel receipt from 2025-03-18",
+          "excerpt": "I wish listening to really loud music wasn't damaging. sometimes I need to not be able to feel any other sensations besides sound. like, I need to be a track on ableton.",
+          "source_document_id": "1902076920147431821",
+          "timestamp": "2025-03-18T19:17:31+00:00",
+          "url": "https://x.com/silverarm0r/status/1902076920147431821",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, don, better, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9146e674a526",
+      "proof_score": 0.825,
+      "mass": 23.823,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_89934159966a",
+      "name": "Really",
+      "summary": "Archive cluster around really: 83 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "want",
+        "know",
+        "love",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6dbfeea85eb5",
+          "title": "Really receipt from 2025-04-18",
+          "excerpt": "I'm not that affected neither by rejection nor by embarrassment so I end up putting myself in really cringe situations a lot. but you know what? I'm free",
+          "source_document_id": "1913222721036562454",
+          "timestamp": "2025-04-18T13:26:57+00:00",
+          "url": "https://x.com/silverarm0r/status/1913222721036562454",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, love."
+        },
+        {
+          "id": "art_ce235d9d5f89",
+          "title": "Really receipt from 2024-12-02",
+          "excerpt": "heres a fun date idea! i cry really hard like i never did before and then you still like me and comfort me after",
+          "source_document_id": "1863648361728929940",
+          "timestamp": "2024-12-02T18:16:09+00:00",
+          "url": "https://x.com/silverarm0r/status/1863648361728929940",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, love."
+        },
+        {
+          "id": "art_765860de7c9b",
+          "title": "Really receipt from 2025-02-02",
+          "excerpt": "im very scared all the time. im scared of being scared even. it feels like ive never really had many moments of relaxation. when i do, im scared of them. i keep asking people for permission for all things",
+          "source_document_id": "1886180306224304443",
+          "timestamp": "2025-02-02T22:30:03+00:00",
+          "url": "https://x.com/silverarm0r/status/1886180306224304443",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, love."
+        },
+        {
+          "id": "art_1c774e1543ec",
+          "title": "Really receipt from 2025-04-02",
+          "excerpt": "no goodnight kiss? wow. society really is collapsing.",
+          "source_document_id": "1907580549469720928",
+          "timestamp": "2025-04-02T23:46:58+00:00",
+          "url": "https://x.com/silverarm0r/status/1907580549469720928",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, love."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_29423bdc7dae",
+      "proof_score": 0.793,
+      "mass": 22.973,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_daf0965b19b2",
+      "name": "Time",
+      "summary": "Archive cluster around time: 101 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "long",
+        "every",
+        "next",
+        "first"
+      ],
+      "artifacts": [
+        {
+          "id": "art_54e78350aa48",
+          "title": "Time receipt from 2025-01-30",
+          "excerpt": "once i had 4 friends pull me on all of my limbs at the same time and it reset me",
+          "source_document_id": "1884964726238580902",
+          "timestamp": "2025-01-30T13:59:46+00:00",
+          "url": "https://x.com/silverarm0r/status/1884964726238580902",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, every, next."
+        },
+        {
+          "id": "art_77cec0d2bf4b",
+          "title": "Time receipt from 2025-03-07",
+          "excerpt": "bartender called me by name and said hi. i went crazy for like an hour trying to remember who he was. I went back and asked him where we knew each other from. turns out: friend of my mom. last time we saw each other was 10 years ago. that's pre-decided-to-remember-everything-era",
+          "source_document_id": "1897827220791476540",
+          "timestamp": "2025-03-07T01:50:44+00:00",
+          "url": "https://x.com/silverarm0r/status/1897827220791476540",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, every, next."
+        },
+        {
+          "id": "art_7bf4a5d2f7a1",
+          "title": "Time receipt from 2025-03-13",
+          "excerpt": "binge read the nose for the nth time. cracks me up every time. I, too, get to indulge in repetitive media consumption. thank you sun https://t.co/D7PZvdrQE0 https://t.co/ga9q3CINwW",
+          "source_document_id": "1900229432083623988",
+          "timestamp": "2025-03-13T16:56:15+00:00",
+          "url": "https://x.com/silverarm0r/status/1900229432083623988",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, every, next."
+        },
+        {
+          "id": "art_d2f7d917f46e",
+          "title": "Time receipt from 2025-03-25",
+          "excerpt": "there are times when it feels like I'm experiencing the world for the very first time again. It's so overwhelming that it makes me want to cry. I haven't figured out crying yet, so I don't. the feeling fades, the world is old again, and so am i.",
+          "source_document_id": "1904526708679610389",
+          "timestamp": "2025-03-25T13:32:06+00:00",
+          "url": "https://x.com/silverarm0r/status/1904526708679610389",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, every, next."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_db578051f5a6",
+      "proof_score": 0.812,
+      "mass": 24.265,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_e4a5fa0f77c4",
+      "name": "Love",
+      "summary": "Archive cluster around love: 98 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "tea",
+        "babieswithb",
+        "know",
+        "someone"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ce0c527be914",
+          "title": "Love receipt from 2025-04-28",
+          "excerpt": "hey...this power outage got me thinking about our lost connection and how I didn't prep for our love...do you wanna check if there's still any spark between us? without you...im in the dark...",
+          "source_document_id": "1916961267660505427",
+          "timestamp": "2025-04-28T21:02:36+00:00",
+          "url": "https://x.com/silverarm0r/status/1916961267660505427",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, tea, babieswithb, know."
+        },
+        {
+          "id": "art_f19885f5b334",
+          "title": "Love receipt from 2025-04-05",
+          "excerpt": "i love my ereader but i miss the romance of handwritten margin notes, crooked underlines, sticky notes, dog ears, bookmarks, first page dedications. i miss borrowing a book from a friend or lover and giving it back a litte bit more worn than before. sorry, i carried it in my bag…",
+          "source_document_id": "1908619441254040063",
+          "timestamp": "2025-04-05T20:35:09+00:00",
+          "url": "https://x.com/silverarm0r/status/1908619441254040063",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, tea, babieswithb, know."
+        },
+        {
+          "id": "art_ba6f48a7a65e",
+          "title": "Love receipt from 2025-04-19",
+          "excerpt": "paul thomas anderson is a fucking freak and i love him and i wish i could open up his head and cozy up inside his brain",
+          "source_document_id": "1913657576925061544",
+          "timestamp": "2025-04-19T18:14:55+00:00",
+          "url": "https://x.com/silverarm0r/status/1913657576925061544",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, tea, babieswithb, know."
+        },
+        {
+          "id": "art_4a4048488daf",
+          "title": "Love receipt from 2025-02-06",
+          "excerpt": "this is flirting to me, please. i love praise from authority figures leave me alone i had neglectful parents. ill believe any lie. im a terrible chess student so far.",
+          "source_document_id": "1887610147716919797",
+          "timestamp": "2025-02-06T21:11:43+00:00",
+          "url": "https://x.com/silverarm0r/status/1887610147716919797",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, tea, babieswithb, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_15b9972123c1",
+      "proof_score": 0.81,
+      "mass": 22.13,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
